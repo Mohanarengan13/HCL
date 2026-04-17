@@ -1,5 +1,8 @@
 public class Rengan{
     public static void main(String ar[]){
-        System.out.print("Hello , I am Mohan");
+       println("Hello World");
+    }
+    public static void println(String message){
+        System.out.println(message);
     }
 }
